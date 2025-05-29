@@ -260,6 +260,11 @@
         <mxCell id="xVWMfnsTrzqJ388MNcqL-81" value="bind" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1385" y="1300" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xVWMfnsTrzqJ388MNcqL-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="2230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-83" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;taskprocessmp4::on_http_tracker_response&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1145.6200000000001" y="2115" width="328.75" height="60" as="geometry" />
         </mxCell>
@@ -273,7 +278,7 @@
           <mxGeometry x="1745" y="2130" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-88" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;taskimpl::on_http_tracker_response&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="929.38" y="2230" width="281.25" height="60" as="geometry" />
+          <mxGeometry x="940" y="2230" width="281.25" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
