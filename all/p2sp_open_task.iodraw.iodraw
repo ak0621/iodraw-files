@@ -260,11 +260,11 @@
         <mxCell id="xVWMfnsTrzqJ388MNcqL-81" value="bind" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1385" y="1300" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xVWMfnsTrzqJ388MNcqL-83" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;on_http_tracker_response&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-83" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;on_http_tracker_response&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1631.25" y="2030" width="202.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-85" value="request结束后调用callback" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="1990" width="170" height="30" as="geometry" />
+          <mxGeometry x="1730" y="1990" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
