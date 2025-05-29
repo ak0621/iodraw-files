@@ -343,8 +343,8 @@
         <mxCell id="xVWMfnsTrzqJ388MNcqL-109" value="callback" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2360" y="2428" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xVWMfnsTrzqJ388MNcqL-111" value="&lt;div style=&quot;text-align: start; color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; white-space: pre;&quot;&gt;&lt;span style=&quot;color: rgb(78, 201, 176);&quot;&gt;ConnectType&lt;/span&gt;::HOLE_PUNCH&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1945" y="2548" width="190" height="30" as="geometry" />
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-112" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2548" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
