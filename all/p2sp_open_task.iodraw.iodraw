@@ -166,10 +166,10 @@
         <mxCell id="xVWMfnsTrzqJ388MNcqL-52" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;start_query&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1227.5" y="1300" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xVWMfnsTrzqJ388MNcqL-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;task_processor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-55" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;http_torrent&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1470" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xVWMfnsTrzqJ388MNcqL-56" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;task_processor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-56" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;http_tracker&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
