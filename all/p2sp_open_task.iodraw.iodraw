@@ -290,6 +290,11 @@
             <mxPoint x="2009.47" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xVWMfnsTrzqJ388MNcqL-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1920" y="2360.5789473684213" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-94" value="can_direct_connet" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="978.5" y="2330" width="183" height="62" as="geometry" />
         </mxCell>
