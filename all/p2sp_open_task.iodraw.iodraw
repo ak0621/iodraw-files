@@ -261,16 +261,16 @@
           <mxGeometry x="1385" y="1300" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-83" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;taskprocessmp4::on_http_tracker_response&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1568.13" y="2030" width="328.75" height="60" as="geometry" />
+          <mxGeometry x="1144.0600000000002" y="2110" width="328.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-85" value="request结束后调用callback" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="1990" width="170" height="30" as="geometry" />
+          <mxGeometry x="1305.93" y="2070" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-86" value="&lt;font size=&quot;3&quot;&gt;taskstatistic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1628.75" y="2130" width="88.75" height="30" as="geometry" />
+          <mxGeometry x="1204.68" y="2210" width="88.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-87" value="&lt;font size=&quot;3&quot;&gt;segmentstatistic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1745" y="2130" width="125" height="30" as="geometry" />
+          <mxGeometry x="1320.93" y="2210" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-88" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;taskimpl::on_http_tracker_response&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="929.38" y="2040" width="281.25" height="60" as="geometry" />
