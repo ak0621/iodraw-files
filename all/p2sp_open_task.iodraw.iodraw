@@ -316,8 +316,8 @@
         <mxCell id="xVWMfnsTrzqJ388MNcqL-102" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1190" y="2440" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xVWMfnsTrzqJ388MNcqL-103" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="2288" width="50" height="30" as="geometry" />
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-103" value="try to connect peers" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="2298" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
