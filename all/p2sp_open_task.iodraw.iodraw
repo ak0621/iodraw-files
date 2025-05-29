@@ -40,7 +40,7 @@
         <mxCell id="xVWMfnsTrzqJ388MNcqL-12" value="lock_guard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="490" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xVWMfnsTrzqJ388MNcqL-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xVWMfnsTrzqJ388MNcqL-12" target="xVWMfnsTrzqJ388MNcqL-9">
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;strokeWidth=2;" edge="1" parent="1" source="xVWMfnsTrzqJ388MNcqL-12" target="xVWMfnsTrzqJ388MNcqL-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="220" y="500" as="sourcePoint" />
             <mxPoint x="270" y="450" as="targetPoint" />
