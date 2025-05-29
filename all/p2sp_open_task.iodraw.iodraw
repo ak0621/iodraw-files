@@ -267,7 +267,7 @@
           <mxGeometry x="1145.6200000000001" y="2115" width="328.75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-85" value="request结束后调用callback" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="1990" width="170" height="30" as="geometry" />
+          <mxGeometry x="1435" y="2020" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-86" value="&lt;font size=&quot;3&quot;&gt;taskstatistic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1520" y="2110" width="88.75" height="30" as="geometry" />
