@@ -223,7 +223,10 @@
           <mxGeometry x="1455" y="1620" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-73" value="tracker request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="1710" width="60" height="30" as="geometry" />
+          <mxGeometry x="1480" y="1710" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-74" value="tracker request" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="1620" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
