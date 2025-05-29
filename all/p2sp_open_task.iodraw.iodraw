@@ -270,10 +270,10 @@
           <mxGeometry x="1730" y="1990" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-86" value="&lt;font size=&quot;3&quot;&gt;taskstatistic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1628.75" y="2130" width="88.75" height="30" as="geometry" />
+          <mxGeometry x="1520" y="2110" width="88.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-87" value="&lt;font size=&quot;3&quot;&gt;segmentstatistic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1745" y="2130" width="125" height="30" as="geometry" />
+          <mxGeometry x="1520" y="2160" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-88" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;taskimpl::on_http_tracker_response&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="929.38" y="2230" width="281.25" height="60" as="geometry" />
