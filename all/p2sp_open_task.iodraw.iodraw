@@ -73,6 +73,12 @@
         <mxCell id="xVWMfnsTrzqJ388MNcqL-29" value="lock_guard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="760" width="70" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xVWMfnsTrzqJ388MNcqL-29" target="xVWMfnsTrzqJ388MNcqL-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="600" as="sourcePoint" />
+            <mxPoint x="780" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
