@@ -382,7 +382,7 @@
         <mxCell id="xVWMfnsTrzqJ388MNcqL-124" value="&lt;font size=&quot;3&quot;&gt;taskimpl::on_peer_ready&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="977" y="2923" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xVWMfnsTrzqJ388MNcqL-127" value="&lt;font size=&quot;3&quot;&gt;on_handshaked&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-127" value="&lt;font size=&quot;3&quot;&gt;update_handshake_state&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2050" y="3010" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
