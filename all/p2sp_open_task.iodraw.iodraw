@@ -389,7 +389,10 @@
           <mxGeometry x="2050" y="3040" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-129" value="handshake state::hs_success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2085" y="3000" width="180" height="30" as="geometry" />
+          <mxGeometry x="2140" y="3000" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-130" value="&lt;font size=&quot;3&quot;&gt;update_handshake_state&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2060" y="3050" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
