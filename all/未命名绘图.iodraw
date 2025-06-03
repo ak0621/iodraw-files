@@ -519,7 +519,7 @@
             <mxPoint x="1181.12" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CrcvsPkDxgYm_-eg-FTA-10" value="注册" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="CrcvsPkDxgYm_-eg-FTA-10" value="更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1102.5" y="790" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-11" value="&lt;font size=&quot;3&quot;&gt;session::m_cond-&amp;gt;notify_all&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
