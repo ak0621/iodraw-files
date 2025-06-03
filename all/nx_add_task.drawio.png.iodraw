@@ -169,6 +169,9 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-46" value="m_download_from_xdnc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1175" y="728" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HyM0r73IdacVLme9WdLU-47" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="1140" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
