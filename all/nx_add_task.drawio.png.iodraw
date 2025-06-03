@@ -399,7 +399,7 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-137" value="picked_blocks" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2410" y="2280" width="120" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-139" value="&lt;font size=&quot;3&quot;&gt;peer connection::request_blocks&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HyM0r73IdacVLme9WdLU-139" value="&lt;font size=&quot;3&quot;&gt;pick_one_downloading_block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2580" y="2325" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
