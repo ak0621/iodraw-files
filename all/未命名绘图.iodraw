@@ -264,7 +264,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-78" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;send_request_async&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1631.25" y="1920" width="202.5" height="60" as="geometry" />
+          <mxGeometry x="1628.75" y="1810" width="202.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-81" value="bind" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1385" y="1300" width="50" height="30" as="geometry" />
@@ -535,7 +535,7 @@
           <mxGeometry x="987.5" y="930" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-21" value="v1，no torrent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="1563" width="100" height="30" as="geometry" />
+          <mxGeometry x="1310" y="1563" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-22" value="v1 and has torrent info&lt;div&gt;v2、v3&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1070.63" y="1553" width="140" height="40" as="geometry" />
