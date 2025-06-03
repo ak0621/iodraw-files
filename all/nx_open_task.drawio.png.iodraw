@@ -451,7 +451,7 @@
         <mxCell id="xVWMfnsTrzqJ388MNcqL-150" value="nxerrorcode::err_eof" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2475" y="3350" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xVWMfnsTrzqJ388MNcqL-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="xVWMfnsTrzqJ388MNcqL-152" target="xVWMfnsTrzqJ388MNcqL-157" edge="1">
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="xVWMfnsTrzqJ388MNcqL-152" target="xVWMfnsTrzqJ388MNcqL-157" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-152" value="&lt;font size=&quot;3&quot;&gt;on_receive&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -478,7 +478,7 @@
         <mxCell id="xVWMfnsTrzqJ388MNcqL-159" value="nxerrorcode::err_eof" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2180" y="3650" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xVWMfnsTrzqJ388MNcqL-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xVWMfnsTrzqJ388MNcqL-162" target="xVWMfnsTrzqJ388MNcqL-118" edge="1">
+        <mxCell id="xVWMfnsTrzqJ388MNcqL-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="xVWMfnsTrzqJ388MNcqL-162" target="xVWMfnsTrzqJ388MNcqL-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xVWMfnsTrzqJ388MNcqL-162" value="&lt;font size=&quot;3&quot;&gt;save received data to buffer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
