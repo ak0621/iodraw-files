@@ -387,11 +387,14 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-135" value="&lt;font size=&quot;3&quot;&gt;pick_block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1645.63" y="2180" width="168.75" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-136" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=0;" edge="1" parent="1" target="HyM0r73IdacVLme9WdLU-135">
+        <mxCell id="HyM0r73IdacVLme9WdLU-136" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="HyM0r73IdacVLme9WdLU-135">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2470" y="2205" as="sourcePoint" />
             <mxPoint x="2110" y="2240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HyM0r73IdacVLme9WdLU-137" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="2280" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
