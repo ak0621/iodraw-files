@@ -479,13 +479,13 @@
           <mxGeometry x="2140" y="3720" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-2" value="&lt;font size=&quot;3&quot;&gt;set_status&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="3030" width="190" height="60" as="geometry" />
+          <mxGeometry x="977" y="3030" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-3" value="&lt;font size=&quot;3&quot;&gt;on_task_ready&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="3130" width="190" height="60" as="geometry" />
+          <mxGeometry x="977" y="3130" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-4" value="&lt;font size=&quot;3&quot;&gt;make_ready_callback&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1045" y="3230" width="190" height="60" as="geometry" />
+          <mxGeometry x="977" y="3230" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-6" value="&lt;font size=&quot;3&quot;&gt;m_on_ready&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="3230" width="190" height="60" as="geometry" />
