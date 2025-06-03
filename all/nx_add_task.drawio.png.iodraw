@@ -264,6 +264,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="HyM0r73IdacVLme9WdLU-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HyM0r73IdacVLme9WdLU-72" target="HyM0r73IdacVLme9WdLU-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="1640" />
+              <mxPoint x="1246" y="1640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-72" value="&lt;font size=&quot;3&quot;&gt;peer block strategy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="998.75" y="1300" width="142.5" height="50" as="geometry" />
         </mxCell>
@@ -277,7 +285,7 @@
           <mxGeometry x="1130" y="1535" width="232.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-78" value="bf for block and peer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="1338" width="130" height="30" as="geometry" />
+          <mxGeometry x="1141.25" y="1300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-80" value="df for peer and bf for block" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1070" y="1448" width="160" height="30" as="geometry" />
