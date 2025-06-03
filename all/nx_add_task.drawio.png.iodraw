@@ -306,7 +306,7 @@
           <mxGeometry x="1130" y="1590" width="232.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-88" value="xiaodu_priority" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="1660" width="60" height="80" as="geometry" />
+          <mxGeometry x="1252.5" y="1660" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
