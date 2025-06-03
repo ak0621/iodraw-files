@@ -414,8 +414,8 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-143" value="&lt;font size=&quot;3&quot;&gt;send_block_request&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2375" y="2550" width="195" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-144" value="&lt;span style=&quot;font-size: medium;&quot;&gt;check_block_is_downloading&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2355" y="2480" width="250" height="50" as="geometry" />
+        <mxCell id="HyM0r73IdacVLme9WdLU-144" value="&lt;span style=&quot;font-size: medium;&quot;&gt;add_block_to_downloading_blocks&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2345" y="2630" width="250" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
