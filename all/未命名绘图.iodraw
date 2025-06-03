@@ -499,7 +499,7 @@
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-4" value="&lt;font size=&quot;3&quot;&gt;make_ready_callback&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="977" y="3230" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CrcvsPkDxgYm_-eg-FTA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CrcvsPkDxgYm_-eg-FTA-6">
+        <mxCell id="CrcvsPkDxgYm_-eg-FTA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CrcvsPkDxgYm_-eg-FTA-6" target="CrcvsPkDxgYm_-eg-FTA-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370.11764705882365" y="3320" as="targetPoint" />
           </mxGeometry>
@@ -520,7 +520,7 @@
           <mxGeometry x="1102.5" y="790" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-11" value="&lt;font size=&quot;3&quot;&gt;session::m_cond-&amp;gt;notify_all&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3318" width="255" height="62" as="geometry" />
+          <mxGeometry x="242.5" y="3340" width="255" height="62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
