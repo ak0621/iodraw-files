@@ -284,6 +284,9 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-75" value="&lt;font size=&quot;3&quot;&gt;breadth_first_send_block_request&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1107.5" y="1360" width="262.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="HyM0r73IdacVLme9WdLU-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HyM0r73IdacVLme9WdLU-76" target="HyM0r73IdacVLme9WdLU-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-76" value="&lt;font size=&quot;3&quot;&gt;assign_peer_df_block_bf&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1687" width="230" height="33" as="geometry" />
         </mxCell>
@@ -300,7 +303,7 @@
           <mxGeometry x="1075" y="1919" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-86" value="&lt;font size=&quot;3&quot;&gt;pick_availiable_peers_and_sort&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1740" width="230" height="53" as="geometry" />
+          <mxGeometry x="1130" y="1760" width="230" height="33" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HyM0r73IdacVLme9WdLU-88" target="HyM0r73IdacVLme9WdLU-90">
           <mxGeometry relative="1" as="geometry" />
