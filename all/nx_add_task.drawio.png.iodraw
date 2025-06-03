@@ -191,10 +191,7 @@
           <mxGeometry x="2168.19" y="1172.5" width="163.62" height="55" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-52" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;set_compelete_callback&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2166.38" y="1260" width="163.62" height="55" as="geometry" />
-        </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-53" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;add_header&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2166.38" y="1340" width="163.62" height="55" as="geometry" />
+          <mxGeometry x="2158.19" y="1260" width="183.62" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
