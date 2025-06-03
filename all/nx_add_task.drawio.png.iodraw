@@ -375,7 +375,7 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-130" value="&lt;font size=&quot;3&quot;&gt;peer connection::request_blocks&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121.25" y="2140" width="250" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-132" value="&lt;font size=&quot;3&quot;&gt;httprequest&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HyM0r73IdacVLme9WdLU-132" value="&lt;font size=&quot;3&quot;&gt;peerconection&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2400" y="240" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
