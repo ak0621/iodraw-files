@@ -311,6 +311,9 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-88" value="xiaodu_priority" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1271.25" y="1662" width="110" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="HyM0r73IdacVLme9WdLU-90" value="&lt;font size=&quot;3&quot;&gt;pick_availiable_peers_and_sort&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="1600" width="232.5" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
