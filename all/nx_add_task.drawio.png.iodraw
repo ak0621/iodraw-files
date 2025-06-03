@@ -250,8 +250,8 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-47" value="download from XCDN" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1160" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-72" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;start&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1468.75" y="1000" width="142.5" height="50" as="geometry" />
+        <mxCell id="HyM0r73IdacVLme9WdLU-72" value="&lt;font size=&quot;3&quot;&gt;peer block strategy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="998.75" y="1300" width="142.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
