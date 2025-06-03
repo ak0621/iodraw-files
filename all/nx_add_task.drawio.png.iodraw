@@ -311,7 +311,7 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HyM0r73IdacVLme9WdLU-88" target="HyM0r73IdacVLme9WdLU-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HyM0r73IdacVLme9WdLU-88" target="HyM0r73IdacVLme9WdLU-93">
+        <mxCell id="HyM0r73IdacVLme9WdLU-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HyM0r73IdacVLme9WdLU-88" target="HyM0r73IdacVLme9WdLU-93">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1326" y="1777" />
@@ -329,6 +329,9 @@
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-93" value="&lt;font size=&quot;3&quot;&gt;sort_peers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1435.62" y="1754" width="114.38" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="HyM0r73IdacVLme9WdLU-96" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="1750" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
