@@ -256,8 +256,11 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-72" value="&lt;font size=&quot;3&quot;&gt;peer block strategy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="998.75" y="1300" width="142.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-74" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1250" width="50" height="30" as="geometry" />
+        <mxCell id="HyM0r73IdacVLme9WdLU-74" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1075" y="1250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HyM0r73IdacVLme9WdLU-75" value="&lt;font size=&quot;3&quot;&gt;peer block strategy&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1008.75" y="1310" width="142.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
