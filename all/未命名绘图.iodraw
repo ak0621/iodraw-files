@@ -552,8 +552,8 @@
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-28" value="&lt;font size=&quot;3&quot;&gt;on_connect&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2035" y="2750" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CrcvsPkDxgYm_-eg-FTA-35" value="&lt;font size=&quot;3&quot;&gt;m_on_ready&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="3240" width="190" height="60" as="geometry" />
+        <mxCell id="CrcvsPkDxgYm_-eg-FTA-35" value="&lt;font size=&quot;3&quot;&gt;on_ready&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="3342" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
