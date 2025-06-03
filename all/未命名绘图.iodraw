@@ -529,7 +529,7 @@
           <mxGeometry x="363" y="3300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-19" value="&lt;font size=&quot;3&quot;&gt;set_task_statistic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="997.5" y="960" width="165" height="60" as="geometry" />
+          <mxGeometry x="775" y="1050" width="165" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
