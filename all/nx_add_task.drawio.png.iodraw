@@ -244,12 +244,6 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-68" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1695" y="1168" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1070" y="1199" as="sourcePoint" />
-            <mxPoint x="1490" y="1198.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
