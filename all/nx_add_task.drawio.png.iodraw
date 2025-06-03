@@ -299,8 +299,8 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-84" value="bf for peer and bf for block" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1075" y="1742" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-86" value="&lt;font size=&quot;3&quot;&gt;assign_peer_df_block_bf&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1520" width="232.5" height="50" as="geometry" />
+        <mxCell id="HyM0r73IdacVLme9WdLU-86" value="&lt;font size=&quot;3&quot;&gt;pick_availiable_peers_and_sort&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="1590" width="232.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
