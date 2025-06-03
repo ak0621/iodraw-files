@@ -284,11 +284,6 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-75" value="&lt;font size=&quot;3&quot;&gt;breadth_first_send_block_request&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1107.5" y="1360" width="262.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HyM0r73IdacVLme9WdLU-76">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1390" y="1704" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-76" value="&lt;font size=&quot;3&quot;&gt;assign_peer_df_block_bf&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1687" width="230" height="33" as="geometry" />
         </mxCell>
@@ -336,16 +331,16 @@
           <mxGeometry x="1619.32" y="1847" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-108" value="&lt;font size=&quot;3&quot;&gt;m_piece_picker-&amp;gt;pick_clocks&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1764" width="230" height="36" as="geometry" />
+          <mxGeometry x="1130" y="1793" width="230" height="36" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-109" value="&lt;font size=&quot;3&quot;&gt;df_pick_peers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1820" width="230" height="10" as="geometry" />
+          <mxGeometry x="1130" y="1829" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-110" value="&lt;font size=&quot;3&quot;&gt;bf_assign_blocks_to_peers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1830" width="230" height="30" as="geometry" />
+          <mxGeometry x="1130" y="1859" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-111" value="&lt;font size=&quot;3&quot;&gt;send_blocks&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1860" width="230" height="30" as="geometry" />
+          <mxGeometry x="1130" y="1889" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
