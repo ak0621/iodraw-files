@@ -349,10 +349,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-123" value="&lt;font size=&quot;3&quot;&gt;pick_availiable_peers_and_sort&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1770" width="230" height="33" as="geometry" />
+          <mxGeometry x="1123.75" y="1440" width="230" height="33" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-124" value="&lt;font size=&quot;3&quot;&gt;m_piece_picker-&amp;gt;pick_clocks&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="1803" width="230" height="36" as="geometry" />
+          <mxGeometry x="1123.75" y="1473" width="230" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
