@@ -247,6 +247,9 @@
             <mxPoint x="1069.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HyM0r73IdacVLme9WdLU-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HyM0r73IdacVLme9WdLU-47" target="HyM0r73IdacVLme9WdLU-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-47" value="download from XCDN" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="1160" width="80" height="80" as="geometry" />
         </mxCell>
