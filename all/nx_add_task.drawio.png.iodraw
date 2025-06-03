@@ -417,8 +417,11 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-142" value="&lt;span style=&quot;font-size: medium;&quot;&gt;check_block_is_downloading&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2345" y="2470" width="250" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="HyM0r73IdacVLme9WdLU-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HyM0r73IdacVLme9WdLU-143" target="HyM0r73IdacVLme9WdLU-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-143" value="&lt;font size=&quot;3&quot;&gt;send_block_request&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2375" y="2550" width="195" height="50" as="geometry" />
+          <mxGeometry x="2372.5" y="2550" width="195" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-144" value="&lt;span style=&quot;font-size: medium;&quot;&gt;add_block_to_downloading_blocks&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2345" y="2630" width="250" height="50" as="geometry" />
