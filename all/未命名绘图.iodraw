@@ -541,7 +541,7 @@
           <mxGeometry x="1070.63" y="1553" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1690" y="1620" width="84" height="45" as="geometry" />
+          <mxGeometry x="1640" y="1612.5" width="64" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
