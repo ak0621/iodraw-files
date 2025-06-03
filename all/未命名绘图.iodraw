@@ -537,6 +537,9 @@
         <mxCell id="CrcvsPkDxgYm_-eg-FTA-21" value="v1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1310" y="1558" width="40" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CrcvsPkDxgYm_-eg-FTA-22" value="v1 and has torrent info&lt;div&gt;v2、v3&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1553" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
