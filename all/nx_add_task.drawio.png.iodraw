@@ -112,7 +112,7 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-23" value="post" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="695" y="548" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HyM0r73IdacVLme9WdLU-24" target="HyM0r73IdacVLme9WdLU-47">
+        <mxCell id="HyM0r73IdacVLme9WdLU-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HyM0r73IdacVLme9WdLU-24" target="HyM0r73IdacVLme9WdLU-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;add_req&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -285,19 +285,19 @@
           <mxGeometry x="1107.5" y="1400" width="262.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-76" value="&lt;font size=&quot;3&quot;&gt;assign_peer_df_block_bf&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1535" width="232.5" height="50" as="geometry" />
+          <mxGeometry x="1130" y="1667" width="232.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-78" value="bf for block and peer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1141.25" y="1300" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-80" value="df for peer and bf for block" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="1448" width="160" height="30" as="geometry" />
+          <mxGeometry x="1070" y="1580" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-81" value="&lt;font size=&quot;3&quot;&gt;assign_peer_df_block_bf&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1700" width="232.5" height="50" as="geometry" />
+          <mxGeometry x="1130" y="1832" width="232.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HyM0r73IdacVLme9WdLU-84" value="bf for peer and bf for block" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="1610" width="160" height="30" as="geometry" />
+          <mxGeometry x="1075" y="1742" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
