@@ -369,7 +369,7 @@
         <mxCell id="HyM0r73IdacVLme9WdLU-126" value="&lt;font size=&quot;3&quot;&gt;peer_give_back_block&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1598.75" y="1930" width="262.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="HyM0r73IdacVLme9WdLU-130" value="&lt;font size=&quot;3&quot;&gt;assign_peer_df_block_bf&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HyM0r73IdacVLme9WdLU-130" value="&lt;font size=&quot;3&quot;&gt;peer connection::request_blocks&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1130" y="2140" width="360" height="50" as="geometry" />
         </mxCell>
       </root>
