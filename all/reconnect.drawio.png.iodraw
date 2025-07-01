@@ -20,7 +20,7 @@
           <mxGeometry x="260" y="320" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yxlYsE4qWwoJsdl4LDmN-6" value="second_tick" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="295" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
