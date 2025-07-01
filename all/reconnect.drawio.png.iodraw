@@ -45,6 +45,9 @@
         <mxCell id="yxlYsE4qWwoJsdl4LDmN-12" value="直连失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="320" y="578" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="yxlYsE4qWwoJsdl4LDmN-13" value="打洞连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="424" y="510" width="126" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
