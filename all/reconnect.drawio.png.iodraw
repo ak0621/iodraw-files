@@ -19,6 +19,9 @@
         <mxCell id="yxlYsE4qWwoJsdl4LDmN-5" value="connect_peer &amp;lt; peer_num_threshold" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="yxlYsE4qWwoJsdl4LDmN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yxlYsE4qWwoJsdl4LDmN-6" target="yxlYsE4qWwoJsdl4LDmN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yxlYsE4qWwoJsdl4LDmN-6" value="try_connect_peer_num &amp;gt; 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="430" width="185" height="30" as="geometry" />
         </mxCell>
@@ -26,7 +29,7 @@
           <mxGeometry x="170" y="500" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yxlYsE4qWwoJsdl4LDmN-8" value="打洞连接" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="500" width="126" height="40" as="geometry" />
+          <mxGeometry x="414" y="500" width="126" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
